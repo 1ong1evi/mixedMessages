@@ -1,4 +1,4 @@
-# Project Name
+# Mixed Messages
 
 > Generates a random message.
 
@@ -18,14 +18,6 @@
 
 ![Example screenshot](./img/screenshot.png)
 
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-## Setup
-
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
 ## Usage
 
 How does one go about using it?
@@ -35,7 +27,7 @@ Provide various use cases and code examples here.
 
 ## Project Status
 
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_ / _complete_ / _no longer being worked on_
 
 ## Room for Improvement
 
@@ -54,3 +46,5 @@ To do:
 ## Contact
 
 Created by [@1ong1evi] - feel free to contact me!
+
+<!-- Thank you to @ritaly for the README template -->
