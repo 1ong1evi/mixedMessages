@@ -1,6 +1,6 @@
-# Mixed Messages
+#Drunken Fortunes
 
-> Generates a random message.
+> Generates a random fortune.
 
 ## General Information
 
