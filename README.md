@@ -1,4 +1,4 @@
-#Drunken Fortunes
+# Drunken Fortunes
 
 > Generates a random fortune.
 
