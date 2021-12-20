@@ -4,10 +4,10 @@
 
 ## General Information
 
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Will return a random fortune of three different fortunes
+- Could be a fortune of good luck or just another rambling drunk
+- The purpose of this project is for you to decide if the drunk fortune is good advice
+- This project is to show my skills of JavaScript and Git
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
@@ -20,28 +20,21 @@
 
 ## Usage
 
-How does one go about using it?
-Provide various use cases and code examples here.
+Load the script into a file containing a main.js
+then run the command using node.js
 
-`write-your-code-here`
+`node main.js`
 
 ## Project Status
 
-Project is: _in progress_ / _complete_ / _no longer being worked on_
+Project is: _complete_
 
 ## Room for Improvement
 
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
 
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-
-- Feature to be added 1
-- Feature to be added 2
+- Add more fortunes
+- Classify what type of fortune it is e.g. Money/Fame/Luck
 
 ## Contact
 

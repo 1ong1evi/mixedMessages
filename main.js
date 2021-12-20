@@ -10,9 +10,9 @@ const fortune2 = ['but the form of every virtue at the testing point ', 'big jou
 const fortune3 = ['makes you think that he is dumb ', 'be not afraid of growing slowly, ', 'cup is in its emptiness ', 'just do not stare ', 
                   'he who laughs last ', 'One tequila, two tequila, three tequila, floor ', 'food poisoning no fun ', 'only difference between rut and a grave is depth ', 
                   'get out of the way ', 'big journeys begin with a single step ']; 
-
+//returns a random fortune of three different fortunes
     const run = () => {
-        return fortune1[Math.floor(Math.random() * 11)] + fortune2[Math.floor(Math.random() * 11)] + fortune3[Math.floor(Math.random() * 11)]; 
+        return fortune1[Math.floor(Math.random() * 10)] + fortune2[Math.floor(Math.random() * 10)] + fortune3[Math.floor(Math.random() * 10)]; 
     }
 
 console.log(run());
