@@ -1,7 +1,7 @@
 //array of 10 fortunes
 const fortune1 = ['be on the alert to recognize your prime ', 'happiness is not an outside job, ', 'your road to glory will be rocky', 'no holidays ', 
                   'he who dies with most toys ', 'you will be hungry again in one hour ', 'you do not need strength ', 'the real kindness comes from within you ', 
-                  'courage is not simply one of the virtues ', 'the older you get, the better you were. '];
+                  'courage is not simply one of the virtues ', 'the older you get, the better you were '];
 //array of 10 fortunes
 const fortune2 = ['but the form of every virtue at the testing point ', 'big journeys begin ', 'if you want the rainbow, ', 
                   'but the second mouse gets the cheese ', 'easiest way to find lost object ', 'age is high price ', 'abort, retry, ignore ', 
