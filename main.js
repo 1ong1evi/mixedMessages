@@ -12,6 +12,7 @@ const fortune3 = ['makes you think that he is dumb ', 'be not afraid of growing 
                   'get out of the way ', 'big journeys begin with a single step ']; 
 //returns a random fortune of three different fortunes
     const run = () => {
+        //displays an index based on the random number generated from the Math library
         return fortune1[Math.floor(Math.random() * 10)] + fortune2[Math.floor(Math.random() * 10)] + fortune3[Math.floor(Math.random() * 10)]; 
     }
 
