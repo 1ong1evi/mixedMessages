@@ -1,14 +1,13 @@
 # Drunken Fortunes
 
-> Generates a random fortune.
+> Generates a random fortune
 
 ## General Information
 
 - Will return a random fortune of three different fortunes
 - Could be a fortune of good luck or just another rambling drunk
-- The purpose of this project is for you to decide if the drunk fortune is good advice
+- It's up to you to decide if the drunk fortune is good advice
 - This project is to show my skills of JavaScript and Git
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
 
